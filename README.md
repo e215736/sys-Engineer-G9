@@ -7,7 +7,7 @@ streamlit run main_app.py
 
 📂 プロジェクト構成  
 project/  
-├── main.py              # メインアプリ（エントリーポイント） 
+├── main.py              # メインアプリ（エントリーポイント）  
 ├── graph_utils.py       # グラフ描画機能  
 └── survey_pages.py      # アンケートページ機能  
 
