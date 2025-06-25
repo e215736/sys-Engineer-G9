@@ -1,8 +1,8 @@
 # 必要なライブラリをインストール
-pip install streamlit pandas matplotlib seaborn numpy
+`pip install streamlit pandas matplotlib seaborn numpy`
 
 # アプリを実行
-streamlit run main_app.py
+`streamlit run main_app.py`
 
 
 📂 プロジェクト構成  
